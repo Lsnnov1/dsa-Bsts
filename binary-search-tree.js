@@ -40,6 +40,9 @@ class BinarySearchTree {
         }
       }
     }
+
+
+  
   }
 
   /** insertRecursively(val): insert a new node into the BST with value val.
